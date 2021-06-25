@@ -1,0 +1,19 @@
+{
+  "name": "fishingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theDanielTo/fishing_tourney_app.git"
+  },
+  "author": "Daniel To",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theDanielTo/fishing_tourney_app/issues"
+  },
+  "homepage": "https://github.com/theDanielTo/fishing_tourney_app#readme"
+}
